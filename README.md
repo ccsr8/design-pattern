@@ -8,3 +8,6 @@ Definition
 
 - Only one instance
 - provide a global point of access
+
+### Prototype Pattern
+
