@@ -11,3 +11,12 @@ Definition
 
 ### Prototype Pattern
 
+Definition
+
+- new instance by copy or clone from existing object
+
+### Builder Pattern
+
+Definition
+
+- Separate the construction of a complex object

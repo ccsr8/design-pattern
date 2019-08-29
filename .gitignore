@@ -4,3 +4,6 @@ Singleton - C#/.vs
 PrototypePattern/.vs
 PrototypePattern/bin
 PrototypePattern/obj
+BuilderPattern/.vs
+BuilderPattern/bin
+BuilderPattern/obj
