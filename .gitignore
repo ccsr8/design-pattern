@@ -7,3 +7,6 @@ PrototypePattern/obj
 BuilderPattern/.vs
 BuilderPattern/bin
 BuilderPattern/obj
+SimpleFactory/.vs
+SimpleFactory/bin
+SimpleFactory/obj
